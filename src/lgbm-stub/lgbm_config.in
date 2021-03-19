@@ -1,0 +1,10 @@
+#
+# Configurations for LightGBM
+#
+# Edit this file to lgbm_config for your own configurations.
+#
+
+REMOTE_HOST=
+REMOTE_DIR=
+
+SLURM_CMD=
